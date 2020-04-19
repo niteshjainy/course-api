@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 19 23:27:24 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-9396-783f-000003863cf0 
+on database directory memory:C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\testdb with class loader java.net.URLClassLoader@79fc0f2f 
+Loaded from file:/C:/Users/sweetyjain/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
