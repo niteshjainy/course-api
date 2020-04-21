@@ -1,5 +1,9 @@
+C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\course\topic\controllers\TopicController.java
 C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\CourseApiApplication.java
-C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\topic\controllers\TopicContoller.java
-C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\topic\services\TopicService.java
-C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\topic\models\Topic.java
-C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\topic\repository\TopicRepository.java
+C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\course\topic\services\CourseService.java
+C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\course\topic\controllers\CourseController.java
+C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\course\topic\services\TopicService.java
+C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\course\topic\models\Topic.java
+C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\course\topic\models\Course.java
+C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\course\topic\repository\CourseRepository.java
+C:\Users\sweetyjain\Desktop\Nitesh\Spring\course-api\course-api\src\main\java\com\myspringboot\course\topic\repository\TopicRepository.java
